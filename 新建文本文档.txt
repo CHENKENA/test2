@@ -4,5 +4,9 @@ include <stdin.h>
 int main()
 {
     printf("hellow world \n");
+	printf("hellow \n");
 	return 0;
 }
+
+
+
